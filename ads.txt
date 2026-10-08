@@ -1,0 +1,6 @@
+# ads.txt for tarifino.tech
+# Replace pub-XXXXXXXXXXXXXXXX with your Google AdSense publisher ID
+# Get your publisher ID from https://www.google.com/adsense/ > Account > Account information
+# After approval, update this line and redeploy.
+
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
